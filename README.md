@@ -1,13 +1,7 @@
-# iPhone 15 Pro Landing Page
+![image](public/assets/images/screenshot1.png)
 
-This repository contains the source code for a frontend site that closely resembles the iPhone 15 Pro landing page. The site features dynamic animations powered by GSAP and an interactive 3D model of the iPhone created using Three.js. This project was built to demonstrate advanced frontend techniques using modern web development tools.
+This repository contains the source code for a frontend site resembling the **iPhone 15 Pro** landing page. The site features *dynamic animations* powered by **GSAP** and an *interactive 3D model* of the iPhone created using **Three.JS**, and *error tracking* and *performance monitoring* through **Sentry**.
 
-## Features
-
-- **Interactive 3D Model**: The site includes a fully interactive iPhone model rendered using Three.js.
-- **Smooth Animations**: GSAP is used to create smooth, engaging animations that enhance the user experience.
-- **Responsive Design**: The site is designed to be fully responsive and provides an optimal viewing experience across various devices.
-- **Modular Code Structure**: The project is organized with modern best practices, making it easy to extend and maintain.
 
 ### Technologies Used:
 
@@ -41,21 +35,13 @@ To start the development server and view the site locally:
 npm run dev
 ```
 
-To build the site for production:
+## Contact
 
-```bash
-npm run build
-```
+For more information, feel free to connect with me:
 
-To preview the production build:
-
-```bash
-npm run preview
-```
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or find any issues, feel free to open an issue or submit a pull request.
+- [GitHub](https://github.com/arindal1)
+- [LinkedIn](https://www.linkedin.com/in/arindalchar)
+- [Twitter](https://twitter.com/arindal_17)
 
 ## License
 
