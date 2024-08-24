@@ -1,8 +1,4 @@
-Here's a professional `README.md` file for your project:
-
----
-
-# iPhone 15 Pro Landing Page Clone
+# iPhone 15 Pro Landing Page
 
 This repository contains the source code for a frontend site that closely resembles the iPhone 15 Pro landing page. The site features dynamic animations powered by GSAP and an interactive 3D model of the iPhone created using Three.js. This project was built to demonstrate advanced frontend techniques using modern web development tools.
 
