@@ -6,7 +6,10 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react(), sentryVitePlugin({
     org: "arindal-char",
-    project: "iphone13"
+    project: "iphone13",
+    server: {
+      port: 5000, // Specify the port you want to use
+    }
   })],
 
   build: {
